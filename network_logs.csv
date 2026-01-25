@@ -1,0 +1,5 @@
+session_id,user_id,bytes_sent,destination_ip,time_of_day,risk_flag
+2001,101,1200,10.0.0.5,work_hours,0
+2002,102,3000,10.0.0.8,work_hours,0
+2003,103,9500,192.168.1.5,off_hours,1
+2004,101,15000,203.0.113.9,off_hours,1

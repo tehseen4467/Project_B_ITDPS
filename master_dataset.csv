@@ -1,0 +1,5 @@
+user_id,total_events,unique_actions,unique_resources,off_hours_events,device_switches,total_sessions,total_bytes_sent,avg_bytes_sent,risky_sessions,role,department,privilege_level,employment_status,label
+101,2,2,2,1,1,2.0,16200.0,8100.0,1.0,Engineer,IT,1,0,2
+102,1,1,1,0,1,1.0,3000.0,3000.0,0.0,HR_Manager,HR,2,0,0
+103,1,1,1,1,1,1.0,9500.0,9500.0,1.0,Contractor,IT,0,1,1
+104,1,1,1,0,1,0.0,0.0,0.0,0.0,Finance_Analyst,Finance,2,0,0

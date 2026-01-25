@@ -1,0 +1,5 @@
+user_id,role,department,privilege_level,employment_status
+101,Engineer,IT,medium,permanent
+102,HR_Manager,HR,high,permanent
+103,Contractor,IT,low,contract
+104,Finance_Analyst,Finance,high,permanent

@@ -1,0 +1,6 @@
+user_id,timestamp,action_type,resource,device,label
+101,2025-01-01 09:10,login,VPN,Laptop,benign
+102,2025-01-01 09:12,file_access,HR_DB,Desktop,benign
+103,2025-01-01 22:45,login,VPN,Laptop,anomalous
+101,2025-01-02 02:30,data_download,Finance_DB,Laptop,malicious
+104,2025-01-02 10:05,login,VPN,Desktop,benign
