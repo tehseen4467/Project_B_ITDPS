@@ -1,0 +1,2 @@
+total_users,default_contamination,default_anomalies,default_ratio,tuned_contamination,tuned_anomalies,tuned_ratio,alert_reduction_percent
+120,0.05,6,0.05,0.03,4,0.0333,33.33
